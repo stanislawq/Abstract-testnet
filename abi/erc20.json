@@ -1,0 +1,16 @@
+[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},
+    {
+        "constant": false,
+        "inputs": [
+              {
+                "name": "_l1Receiver",
+                "type": "address"
+              }
+        ],
+        "name": "withdraw",
+        "outputs": [],
+        "payable": true,
+        "stateMutability": "payable",
+        "type": "function"
+    }
+]
