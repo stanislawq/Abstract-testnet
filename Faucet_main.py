@@ -12,7 +12,7 @@ sqlite3.register_converter("timestamp", lambda s: datetime.fromisoformat(s.decod
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 proxy = {
-    'https': 'https://api12e3dd9c238594c8:RNW78Fm5@res.proxy-seller.com:10000',
+    
 }
 
 
